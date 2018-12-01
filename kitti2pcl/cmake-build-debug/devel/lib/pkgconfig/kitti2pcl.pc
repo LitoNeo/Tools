@@ -1,0 +1,8 @@
+prefix=/home/yunle/temp/kitti2pcl/cmake-build-debug/devel
+
+Name: kitti2pcl
+Description: Description of kitti2pcl
+Version: 0.0.0
+Cflags: -I/home/yunle/temp/kitti2pcl/include
+Libs: -L/home/yunle/temp/kitti2pcl/cmake-build-debug/devel/lib -lkitti2pcl
+Requires: gencpp roscpp rospy sensor_msgs std_msgs

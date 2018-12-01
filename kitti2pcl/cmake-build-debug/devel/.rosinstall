@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yunle/temp/kitti2pcl/cmake-build-debug/devel/setup.sh

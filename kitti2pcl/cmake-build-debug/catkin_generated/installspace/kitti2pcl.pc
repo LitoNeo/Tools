@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: kitti2pcl
+Description: Description of kitti2pcl
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lkitti2pcl
+Requires: gencpp roscpp rospy sensor_msgs std_msgs
